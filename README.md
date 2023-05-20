@@ -20,7 +20,7 @@ That's it!
 
 ## Curiosities
 
-[ ] Use GitHub Action to automatically update this section with list of opened Issues.
+- [ ] Use GitHub Action to automatically update this section with list of opened Issues.
 
 
 
